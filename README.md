@@ -1,1 +1,2 @@
 # Correlation
+The Correlation Analysis project in Python focuses on exploring and quantifying the relationships between variables in a dataset using statistical correlation measures. This project aims to uncover dependencies, patterns, and associations between variables, providing valuable insights into their interactions. The Correlation Analysis project in Python leverages the power of statistical measures and Python libraries to uncover relationships between variables in a dataset.
